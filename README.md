@@ -1,4 +1,2 @@
-# hello-world
-First repo
-Well hello.......
-Bye..I guess
+First repository.
+Contains C code to print "Hello, World!"
